@@ -1,1 +1,1 @@
-[# projeto-cordel](https://ivan-josef.github.io/projeto-cordel/)
+[# Projeto-Cordel](https://ivan-josef.github.io/projeto-cordel/)
